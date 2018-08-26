@@ -1,0 +1,8 @@
+title: nameOfProyect
+description: name of proyect
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
